@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/export",
-    "version":"5.2.0",
+    "name": "cliqued-media/export",
+    "version":"1.0.0",
     "description": "Allow KoolReport to export to PDF and other formats",
     "keywords": ["PHP","Reporting Tools","Data Report","Charts","Exporting","PDF","Export HTML to PDF"],
     "homepage": "https://www.koolreport.com",
